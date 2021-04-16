@@ -43,7 +43,7 @@
 
 <img align="left" alt="reybrac's Github Stats" src="https://github-readme-stats.vercel.app/api?username=reybrac&show_icons=true&hide_border=true&theme=gotham" />
 <br />
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reybrac&show_icons=true&hide_border=true)](https://github.com/reybrac) -->
+<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reybrac&show_icons=true&hide_border=true&theme=gotham" />
 
 [website]: https://reybrac.github.io/
 

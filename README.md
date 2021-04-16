@@ -40,11 +40,12 @@
 <br />
 
 ---
+[![Reybrac's GitHub stats](https://github-readme-stats.vercel.app/api?username=reybrac&theme=gotham)](https://github.com/reybrac)
 
-<img align="left" alt="reybrac's Github Stats" src="https://github-readme-stats.vercel.app/api?username=reybrac&show_icons=true&hide_border=true&theme=gotham" />
 <br />
-<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reybrac&show_icons=true&hide_border=true&theme=gotham" />
 
-[website]: https://reybrac.github.io/
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reybrac)](https://github.com/reybrac)
+
+
 
 

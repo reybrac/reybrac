@@ -44,7 +44,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reybrac)](https://github.com/reybrac)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reybrac&theme=gotham)](https://github.com/reybrac)
 
 
 

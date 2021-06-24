@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=reybrac.reybrac)
 <br />
 
-## Aspiring Full Stack web developer. Learning through a full stack web developer bootcamp. I love to learn and grow my skillsets.
+## Full Stack web developer. I love to learn and grow my skillsets.
  
 
 ## Languages and Tools:
